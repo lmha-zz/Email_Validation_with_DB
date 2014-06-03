@@ -1,0 +1,39 @@
+* {
+	font-family: arial;
+	font-size:12px;
+	margin:0;
+	padding:0;
+}
+body{
+	width:600px;
+	margin: 0 auto;
+}
+
+label, input{
+	display: block;
+	margin: 5px 0 0 175px;
+}
+input {
+	margin: 5px 0 5px 222px;
+}
+div {
+	border:2px solid black;
+	width: 400px;
+	padding: 10px 20px;
+}
+p {
+	display:inline-block;
+}
+form {
+	display: inline;
+}
+.success {
+	background-color: #71AE4C;
+}
+
+.error {
+	background-color: pink;
+}
+.button {
+	margin: 5px 0 5px 300px;
+}
